@@ -4,16 +4,16 @@
   "version": "0.0.0",
   "author": "Salesforce",
   "bin": {
-    "oex": "./bin/run"
+    "oex": "./bin/run.js"
   },
   "bugs": "https://github.com/oclif/hello-world/issues",
   "dependencies": {
     "@oclif/core": "^2",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^2.4.7"
+    "@oclif/plugin-plugins": "^3.1.8"
   },
   "devDependencies": {
-    "@oclif/test": "^2.3.31",
+    "@oclif/test": "^2.4.0",
     "@types/chai": "^4",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.18.39",
@@ -42,7 +42,6 @@
     "oclif"
   ],
   "license": "MIT",
-  "main": "dist/index.js",
   "oclif": {
     "bin": "oex",
     "dirname": "oex",
@@ -68,5 +67,7 @@
     "test": "mocha --forbid-only \"test/**/*.test.ts\"",
     "version": "oclif readme && git add README.md"
   },
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "exports": "./lib/index.js",
+  "type": "module"
 }
