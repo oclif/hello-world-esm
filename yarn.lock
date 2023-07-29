@@ -645,9 +645,9 @@
     tslib "^2"
 
 "@oclif/core@^2", "@oclif/core@^2.8.7", "@oclif/core@^2.9.3", "@oclif/core@^2.9.4":
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/@oclif/core/-/core-2.10.0.tgz#8fd4a46bdea2a45ccf090c1433e913ea454b0607"
-  integrity sha512-4csNtXBb+RKrhO2lBAwBvxuyk0B3NB45tAkSHOrJjUo1ufT+qpg9V+g7nHZBMlwoQmjlAjCOKtm6RHar8FrpZg==
+  version "2.11.1"
+  resolved "https://registry.yarnpkg.com/@oclif/core/-/core-2.11.1.tgz#69c3cfd3d9b2df9fe94c6d16a3c5da59706f078a"
+  integrity sha512-/DHDtm/PoSNvWdJtTv1GUYnrCrlTsEQd1CsXKNfMSylpkeOjbDIbt1w4NYZ50BfAWxpCunf7RmbwxFBpDa5lHQ==
   dependencies:
     "@types/cli-progress" "^3.11.0"
     ansi-escapes "^4.3.2"
