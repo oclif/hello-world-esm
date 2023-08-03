@@ -1,3 +1,12 @@
+## [0.0.3](https://github.com/oclif/hello-world/compare/0.0.2...0.0.3) (2023-08-03)
+
+
+### Bug Fixes
+
+* add experimentalSpecifierResolution ([a57c7e0](https://github.com/oclif/hello-world/commit/a57c7e07f2cfcc6a67d598773fe3a6ab7903c4ae))
+
+
+
 ## [0.0.2](https://github.com/oclif/hello-world/compare/0.0.1...0.0.2) (2023-07-29)
 
 
