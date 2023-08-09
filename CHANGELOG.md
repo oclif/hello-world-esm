@@ -1,3 +1,12 @@
+## [0.0.5](https://github.com/oclif/hello-world/compare/0.0.4...0.0.5) (2023-08-09)
+
+
+### Bug Fixes
+
+* bin/run shebang ([abbf92a](https://github.com/oclif/hello-world/commit/abbf92ab774077ef2e3634c6c8b679932d5f6158))
+
+
+
 ## [0.0.4](https://github.com/oclif/hello-world/compare/0.0.3...0.0.4) (2023-08-06)
 
 
