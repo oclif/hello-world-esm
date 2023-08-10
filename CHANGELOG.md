@@ -1,3 +1,12 @@
+## [0.0.7](https://github.com/oclif/hello-world/compare/0.0.6...0.0.7) (2023-08-10)
+
+
+### Bug Fixes
+
+* update tsconfig ([0cd7321](https://github.com/oclif/hello-world/commit/0cd73218c2a0c3fc44de072331a1b77217d06cc9))
+
+
+
 ## [0.0.6](https://github.com/oclif/hello-world/compare/0.0.5...0.0.6) (2023-08-10)
 
 
