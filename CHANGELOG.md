@@ -1,3 +1,12 @@
+# [0.1.0](https://github.com/oclif/hello-world/compare/0.0.10...0.1.0) (2023-08-21)
+
+
+### Features
+
+* remove ts-node/esm shebang ([c2c3aab](https://github.com/oclif/hello-world/commit/c2c3aabcea5edf646ef87874cd4c7b87ad05c5f5))
+
+
+
 ## [0.0.10](https://github.com/oclif/hello-world/compare/0.0.9...0.0.10) (2023-08-13)
 
 
