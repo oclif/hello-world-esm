@@ -1,3 +1,12 @@
+## [0.1.1](https://github.com/oclif/hello-world/compare/0.1.0...0.1.1) (2023-08-23)
+
+
+### Bug Fixes
+
+* add void to bin scripts ([a3e257e](https://github.com/oclif/hello-world/commit/a3e257efa4984834d221ec356dc5269dc8c39ee9))
+
+
+
 # [0.1.0](https://github.com/oclif/hello-world/compare/0.0.10...0.1.0) (2023-08-21)
 
 
