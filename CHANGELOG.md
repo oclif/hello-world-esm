@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/oclif/hello-world/compare/0.1.1...0.1.2) (2023-08-31)
+
+
+### Bug Fixes
+
+* use core v3 ([0896ec1](https://github.com/oclif/hello-world/commit/0896ec15081020dd38f8cf9a26fd61f899182d29))
+
+
+
 ## [0.1.1](https://github.com/oclif/hello-world/compare/0.1.0...0.1.1) (2023-08-23)
 
 
