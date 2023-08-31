@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "declaration": true,
     "importHelpers": true,
     "module": "es2020",
     "outDir": "dist",
