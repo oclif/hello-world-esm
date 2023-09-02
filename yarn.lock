@@ -699,10 +699,10 @@
     wordwrap "^1.0.0"
     wrap-ansi "^7.0.0"
 
-"@oclif/core@^3.0.0-beta.4", "@oclif/core@^3.0.0-beta.6":
-  version "3.0.0-beta.6"
-  resolved "https://registry.yarnpkg.com/@oclif/core/-/core-3.0.0-beta.6.tgz#aaab45a61ddb18b300ef14f083860f56713e99be"
-  integrity sha512-aVCttiWYOGqVvV+hi5hWepXdNDxzk5ANcqvv8K2psZpFKmwaMO6BihshQ3Ex0raHSy+0O0xKmN6xa1kaFcuRzg==
+"@oclif/core@^3.0.0-beta.12", "@oclif/core@^3.0.0-beta.4":
+  version "3.0.0-beta.12"
+  resolved "https://registry.yarnpkg.com/@oclif/core/-/core-3.0.0-beta.12.tgz#7367b0fb51e2d8b3c3f9837e47adce02b69cd726"
+  integrity sha512-nHDobiU0Vz45VGWvHTALJbNYlTNwBTzVpAWsnS+kzvNHozuTTN3oC2UJDC4zWZp6RdveGZhnQh5pZg6Kqisr3g==
   dependencies:
     "@types/cli-progress" "^3.11.0"
     ansi-escapes "^4.3.2"
