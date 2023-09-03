@@ -1,3 +1,12 @@
+## [0.1.4](https://github.com/oclif/hello-world/compare/0.1.3...0.1.4) (2023-09-03)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.0.0-beta.6 to 3.0.0-beta.12 ([4a67b9f](https://github.com/oclif/hello-world/commit/4a67b9f67e287de7fca92376899b00cab25a2ada))
+
+
+
 ## [0.1.3](https://github.com/oclif/hello-world/compare/0.1.2...0.1.3) (2023-09-02)
 
 
