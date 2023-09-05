@@ -1,3 +1,12 @@
+## [0.1.5](https://github.com/oclif/hello-world/compare/0.1.4...0.1.5) (2023-09-05)
+
+
+### Bug Fixes
+
+* update bin scripts ([9d14905](https://github.com/oclif/hello-world/commit/9d1490590a11ff79f817dd8ec8e9a548b70d9aa6))
+
+
+
 ## [0.1.4](https://github.com/oclif/hello-world/compare/0.1.3...0.1.4) (2023-09-03)
 
 
