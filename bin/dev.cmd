@@ -1,3 +1,3 @@
 @echo off
 
-node --loader ts-node/esm "%~dp0\dev" %*
+node "%~dp0\dev" %*
