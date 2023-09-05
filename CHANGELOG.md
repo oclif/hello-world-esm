@@ -1,3 +1,12 @@
+## [0.1.6](https://github.com/oclif/hello-world/compare/0.1.5...0.1.6) (2023-09-05)
+
+
+### Bug Fixes
+
+* remove ts-node loader ([370eba5](https://github.com/oclif/hello-world/commit/370eba5db778c240bf95fca27f5afac71aa48466))
+
+
+
 ## [0.1.5](https://github.com/oclif/hello-world/compare/0.1.4...0.1.5) (2023-09-05)
 
 
