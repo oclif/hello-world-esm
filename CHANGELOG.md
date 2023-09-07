@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/oclif/hello-world/compare/0.1.6...0.2.0) (2023-09-07)
+
+
+### Features
+
+* use ts-node in bin/dev.js ([6ab5e0f](https://github.com/oclif/hello-world/commit/6ab5e0f31cb7c09c196d30bd3ecdf2f9e7462ea8))
+
+
+
 ## [0.1.6](https://github.com/oclif/hello-world/compare/0.1.5...0.1.6) (2023-09-05)
 
 
