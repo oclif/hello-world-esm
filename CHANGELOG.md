@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/oclif/hello-world/compare/0.2.0...0.2.1) (2023-09-09)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/plugin-help from 5.2.17 to 5.2.19 ([60d2b33](https://github.com/oclif/hello-world/commit/60d2b338401d4d9a5790416c99b7cbe6c019346f))
+
+
+
 # [0.2.0](https://github.com/oclif/hello-world/compare/0.1.6...0.2.0) (2023-09-07)
 
 
