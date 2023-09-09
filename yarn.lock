@@ -664,7 +664,7 @@
     supports-color "^8.1.1"
     tslib "^2"
 
-"@oclif/core@^2.11.10", "@oclif/core@^2.15.0", "@oclif/core@^2.9.3":
+"@oclif/core@^2.11.10", "@oclif/core@^2.11.4", "@oclif/core@^2.15.0", "@oclif/core@^2.9.3":
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/@oclif/core/-/core-2.15.0.tgz#f27797b30a77d13279fba88c1698fc34a0bd0d2a"
   integrity sha512-fNEMG5DzJHhYmI3MgpByTvltBOMyFcnRIUMxbiz2ai8rhaYgaTHMG3Q38HcosfIvtw9nCjxpcQtC8MN8QtVCcA==
@@ -698,7 +698,7 @@
     wordwrap "^1.0.0"
     wrap-ansi "^7.0.0"
 
-"@oclif/core@^3.0.0-beta.12", "@oclif/core@^3.0.0-beta.4":
+"@oclif/core@^3.0.0-beta.12":
   version "3.0.0-beta.12"
   resolved "https://registry.yarnpkg.com/@oclif/core/-/core-3.0.0-beta.12.tgz#7367b0fb51e2d8b3c3f9837e47adce02b69cd726"
   integrity sha512-nHDobiU0Vz45VGWvHTALJbNYlTNwBTzVpAWsnS+kzvNHozuTTN3oC2UJDC4zWZp6RdveGZhnQh5pZg6Kqisr3g==
@@ -4703,12 +4703,12 @@ object.assign@^4.1.2:
     has-symbols "^1.0.3"
     object-keys "^1.1.1"
 
-oclif@^3.13.0:
-  version "3.13.0"
-  resolved "https://registry.yarnpkg.com/oclif/-/oclif-3.13.0.tgz#b0a9187ea9ca12044feea5324f5dd377ee4e1252"
-  integrity sha512-4MU3fFQmEcr001XRfHoAZjKWEBWvnYqvV6NKlJcU8b1HLxl13cXkeOSh+dC/PFydgfQ0m9jk2WikOtIvRwge+A==
+oclif@^3.15.0:
+  version "3.15.0"
+  resolved "https://registry.yarnpkg.com/oclif/-/oclif-3.15.0.tgz#8e421f97cddd0c355cbd0aad3b68410a92a480b8"
+  integrity sha512-iwIjseO6Zuw1X66bN268yVuT6U7Qfwcp4CP4FZ/fd/a81eqQ6CTSCfeInjn/uDhfC/U01KrbNZPIZCMkjWHzxA==
   dependencies:
-    "@oclif/core" "^3.0.0-beta.4"
+    "@oclif/core" "^2.11.4"
     "@oclif/plugin-help" "^5.2.14"
     "@oclif/plugin-not-found" "^2.3.32"
     "@oclif/plugin-warn-if-update-available" "^2.0.44"
