@@ -1,7 +1,7 @@
 {
   "name": "oclif-hello-world",
   "description": "oclif example Hello World CLI",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Salesforce",
   "bin": {
     "oex": "./bin/run.js"
