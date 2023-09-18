@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/oclif/hello-world/compare/0.2.3...0.3.0) (2023-09-18)
+
+
+### Features
+
+* update eslint configs ([85c1530](https://github.com/oclif/hello-world/commit/85c15307f8faefb2646050276a58c310f48cff2b))
+
+
+
 ## [0.2.3](https://github.com/oclif/hello-world/compare/0.2.2...0.2.3) (2023-09-17)
 
 
