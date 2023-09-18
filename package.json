@@ -1,12 +1,12 @@
 {
-  "name": "oclif-hello-world",
-  "description": "oclif example Hello World CLI",
+  "name": "oclif-hello-world-esm",
+  "description": "oclif example Hello World CLI (ESM)",
   "version": "0.2.3",
   "author": "Salesforce",
   "bin": {
     "oex": "./bin/run.js"
   },
-  "bugs": "https://github.com/oclif/hello-world/issues",
+  "bugs": "https://github.com/oclif/hello-world-esm/issues",
   "dependencies": {
     "@oclif/core": "^3.0.0-beta.13",
     "@oclif/plugin-help": "^5",
@@ -16,11 +16,11 @@
     "@oclif/test": "^2.5.4",
     "@types/chai": "^4",
     "@types/mocha": "^9.0.0",
-    "@types/node": "^16.18.50",
+    "@types/node": "^18",
     "chai": "^4",
-    "eslint": "^7",
-    "eslint-config-oclif": "^4",
-    "eslint-config-oclif-typescript": "^1.0.3",
+    "eslint": "^8",
+    "eslint-config-oclif": "^5",
+    "eslint-config-oclif-typescript": "^2",
     "mocha": "^9",
     "oclif": "^3.16.0",
     "shx": "^0.3.4",
@@ -29,7 +29,7 @@
     "typescript": "^4.9.5"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=18.0.0"
   },
   "files": [
     "/bin",
@@ -37,7 +37,7 @@
     "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
-  "homepage": "https://github.com/oclif/hello-world",
+  "homepage": "https://github.com/oclif/hello-world-esm",
   "keywords": [
     "oclif"
   ],
