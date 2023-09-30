@@ -8,7 +8,7 @@
   },
   "bugs": "https://github.com/oclif/hello-world-esm/issues",
   "dependencies": {
-    "@oclif/core": "^3.0.0-beta.13",
+    "@oclif/core": "^3.0.0-beta.19",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^3.7.0"
   },
