@@ -1,3 +1,13 @@
+## [0.4.1](https://github.com/oclif/hello-world/compare/0.4.0...0.4.1) (2023-10-04)
+
+
+### Bug Fixes
+
+* deps ([ede92f9](https://github.com/oclif/hello-world/commit/ede92f95be182a8cd08f970781988959e02550b0))
+* satisfy linter ([896fd96](https://github.com/oclif/hello-world/commit/896fd96ab5821774751811567ab7d97d01e8bb2b))
+
+
+
 # [0.4.0](https://github.com/oclif/hello-world/compare/0.3.0...0.4.0) (2023-10-04)
 
 
