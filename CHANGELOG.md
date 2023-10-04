@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/oclif/hello-world/compare/0.3.0...0.4.0) (2023-10-04)
+
+
+### Features
+
+* bump core, add prettier ([5be0350](https://github.com/oclif/hello-world/commit/5be0350ed4446ec1fc2eba55b73b459875f8b90b))
+
+
+
 # [0.3.0](https://github.com/oclif/hello-world/compare/0.2.3...0.3.0) (2023-09-18)
 
 
