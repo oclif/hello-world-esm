@@ -1,3 +1,12 @@
+## [0.4.2](https://github.com/oclif/hello-world/compare/0.4.1...0.4.2) (2023-10-09)
+
+
+### Bug Fixes
+
+* use latest eslint-config-oclif-typescript ([a010663](https://github.com/oclif/hello-world/commit/a010663092a2c269c56cecc96bfd4ff3bcb4a2f1))
+
+
+
 ## [0.4.1](https://github.com/oclif/hello-world/compare/0.4.0...0.4.1) (2023-10-04)
 
 
