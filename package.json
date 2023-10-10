@@ -1,7 +1,7 @@
 {
   "name": "oclif-hello-world-esm",
   "description": "oclif example Hello World CLI (ESM)",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "author": "Salesforce",
   "bin": {
     "oex": "./bin/run.js"

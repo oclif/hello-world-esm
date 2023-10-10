@@ -1,3 +1,13 @@
+## [0.4.3](https://github.com/oclif/hello-world/compare/0.4.2...0.4.3) (2023-10-10)
+
+
+### Bug Fixes
+
+* update dev.cmd too ([2ce7bdc](https://github.com/oclif/hello-world/commit/2ce7bdc2c2b262f8f16bcab62fe7c9c5dd8d3f48))
+* use node with ts-node loader ([5f406d6](https://github.com/oclif/hello-world/commit/5f406d6dd2ce06bcfe50a9c003bcfe25c63d93b4))
+
+
+
 ## [0.4.2](https://github.com/oclif/hello-world/compare/0.4.1...0.4.2) (2023-10-09)
 
 
