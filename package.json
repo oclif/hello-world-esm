@@ -10,7 +10,7 @@
   "dependencies": {
     "@oclif/core": "^3",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^3.9.4"
+    "@oclif/plugin-plugins": "^4"
   },
   "devDependencies": {
     "@oclif/prettier-config": "^0.2.1",
@@ -35,7 +35,6 @@
   "files": [
     "/bin",
     "/dist",
-    "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
   "homepage": "https://github.com/oclif/hello-world-esm",
