@@ -1,3 +1,12 @@
+## [0.4.8](https://github.com/oclif/hello-world/compare/0.4.7...0.4.8) (2023-11-25)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.11.0 to 3.12.0 ([80e5f57](https://github.com/oclif/hello-world/commit/80e5f5755ede98541b951125887c349cf1df3373))
+
+
+
 ## [0.4.7](https://github.com/oclif/hello-world/compare/0.4.6...0.4.7) (2023-11-18)
 
 
