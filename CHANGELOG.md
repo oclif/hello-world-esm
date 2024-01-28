@@ -1,3 +1,12 @@
+## [0.4.16](https://github.com/oclif/hello-world/compare/0.4.15...0.4.16) (2024-01-28)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/plugin-plugins from 4.1.14 to 4.1.21 ([e486ee0](https://github.com/oclif/hello-world/commit/e486ee033e68dbaf5f3cd051802e68d783fbe22a))
+
+
+
 ## [0.4.15](https://github.com/oclif/hello-world/compare/0.4.14...0.4.15) (2024-01-27)
 
 
