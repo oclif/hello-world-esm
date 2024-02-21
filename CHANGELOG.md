@@ -1,3 +1,12 @@
+## [0.4.20](https://github.com/oclif/hello-world/compare/0.4.19...0.4.20) (2024-02-21)
+
+
+### Bug Fixes
+
+* **deps:** bump ip from 2.0.0 to 2.0.1 ([605adc2](https://github.com/oclif/hello-world/commit/605adc2b276103b19a6b84e3814d6557757f37a2))
+
+
+
 ## [0.4.19](https://github.com/oclif/hello-world/compare/0.4.18...0.4.19) (2024-02-11)
 
 
