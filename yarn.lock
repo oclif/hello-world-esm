@@ -1488,10 +1488,10 @@
     read-package-json-fast "^3.0.0"
     which "^4.0.0"
 
-"@oclif/core@^3", "@oclif/core@^3.10.2", "@oclif/core@^3.18.2", "@oclif/core@^3.19.2":
-  version "3.19.6"
-  resolved "https://registry.yarnpkg.com/@oclif/core/-/core-3.19.6.tgz#12e5cb073016d8c32c469d2fec0cd585ac5c1c09"
-  integrity sha512-1ryQWAx7VOf+Wq6pv00uilOo56DrG0drr42crmCQ3eYrPPz252EmNCoFkoOBk7McN6x0f4ega83c0yNNCXmiXw==
+"@oclif/core@^3", "@oclif/core@^3.18.2", "@oclif/core@^3.19.2", "@oclif/core@^3.21.0":
+  version "3.23.0"
+  resolved "https://registry.yarnpkg.com/@oclif/core/-/core-3.23.0.tgz#d0ccc5f99c376e4bcfce04e8e94efae8417a53f8"
+  integrity sha512-giQ/8Ft8yXWg4IyPVtynPb7ihoQsa3A/1Q53UIJIhh+8k+EedE3lJ01yn6sq6Ha35IGqsG1WhkeHzlJIuldEaw==
   dependencies:
     "@types/cli-progress" "^3.11.5"
     ansi-escapes "^4.3.2"
@@ -1509,6 +1509,7 @@
     indent-string "^4.0.0"
     is-wsl "^2.2.0"
     js-yaml "^3.14.1"
+    minimatch "^9.0.3"
     natural-orderby "^2.0.3"
     object-treeify "^1.1.33"
     password-prompt "^1.1.3"
@@ -1538,11 +1539,11 @@
     fast-levenshtein "^3.0.0"
 
 "@oclif/plugin-plugins@^4":
-  version "4.2.6"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-4.2.6.tgz#9facef7881789e408766b65413a8b4efd0bce145"
-  integrity sha512-HdPWRQYI4wsTcqRJFvEGFalgX1q7y0oeCKdZtMI6Wl1PsALloYlbbQ1rl1jqk3YFbHjyEWud34gccOdXLl3UAA==
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-4.3.2.tgz#68ef3d206400f52ea84fdc741bfb54532a9bae91"
+  integrity sha512-PqnjKJPLJOLULLaT1Na9XhjY7MgVFxKcGRj0Pw5aRPXP1MADIwKDPUTdPzRHlGnnvEZc5eDX8TPOFoW7sx1vow==
   dependencies:
-    "@oclif/core" "^3.10.2"
+    "@oclif/core" "^3.21.0"
     chalk "^5.3.0"
     debug "^4.3.4"
     npm "10.2.4"
