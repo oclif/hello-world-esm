@@ -1,3 +1,12 @@
+## [0.4.29](https://github.com/oclif/hello-world/compare/0.4.28...0.4.29) (2024-04-11)
+
+
+### Bug Fixes
+
+* **deps:** bump tar from 6.1.11 to 6.2.1 ([8c17af9](https://github.com/oclif/hello-world/commit/8c17af98735d16832a42590ae8a26492d046cf26))
+
+
+
 ## [0.4.28](https://github.com/oclif/hello-world/compare/0.4.27...0.4.28) (2024-04-06)
 
 
