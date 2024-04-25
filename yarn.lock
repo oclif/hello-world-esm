@@ -1338,7 +1338,7 @@
     node-gyp "^10.0.0"
     which "^4.0.0"
 
-"@oclif/core@^3", "@oclif/core@^3.21.0", "@oclif/core@^3.26.0", "@oclif/core@^3.26.2":
+"@oclif/core@^3", "@oclif/core@^3.21.0", "@oclif/core@^3.26.0", "@oclif/core@^3.26.2", "@oclif/core@^3.26.4":
   version "3.26.4"
   resolved "https://registry.yarnpkg.com/@oclif/core/-/core-3.26.4.tgz#ab0c6d06f699abaf0fa6186466f64f02a8435c61"
   integrity sha512-ntfo2ut7enNtAn/jB/dryMUPBM2Fh8Fydmi3k/Ybo6lCGU/hmsPFkBRjCEJAQMyNkK2yVZARaWogdOrcVgFz+w==
@@ -1389,11 +1389,11 @@
     fast-levenshtein "^3.0.0"
 
 "@oclif/plugin-plugins@^5":
-  version "5.0.11"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-5.0.11.tgz#81dfcf1d4fad97cc08ff25f97df54eaab7cf918d"
-  integrity sha512-es+IMNI97Jw+EX25r9ejrOph9R/8FbNXmWrH/NnhUJ3lNDpeMPM8njP4ovHYJi2+ta2VTHDxhQFNRDlNnUiyOw==
+  version "5.0.14"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-5.0.14.tgz#f0dd7bf7f99d6427833e851feb80a309d8b4abbe"
+  integrity sha512-5LM3w2PPfB6qMtgrAq+n8hG295i4vbnuPfQN4wPGLJq1tIiDpBEAX1XHnGhUdAeU0V8CU2AnjiucXFMTKvIdow==
   dependencies:
-    "@oclif/core" "^3.26.2"
+    "@oclif/core" "^3.26.4"
     chalk "^5.3.0"
     debug "^4.3.4"
     npm "10.5.0"
