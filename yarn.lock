@@ -1389,9 +1389,9 @@
     fast-levenshtein "^3.0.0"
 
 "@oclif/plugin-plugins@^5":
-  version "5.0.14"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-5.0.14.tgz#f0dd7bf7f99d6427833e851feb80a309d8b4abbe"
-  integrity sha512-5LM3w2PPfB6qMtgrAq+n8hG295i4vbnuPfQN4wPGLJq1tIiDpBEAX1XHnGhUdAeU0V8CU2AnjiucXFMTKvIdow==
+  version "5.0.15"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-5.0.15.tgz#67c602b3ab414aa9c7429c04773defdec50be888"
+  integrity sha512-PXSbfBz5RPARQVtwSlx3ES06JDddQc8RNo0XXOxOUQ5rs3HO3Me4sbW8A1cnOOEtiFn4TP76btjOKPxR8SVowg==
   dependencies:
     "@oclif/core" "^3.26.4"
     chalk "^5.3.0"
@@ -1399,6 +1399,7 @@
     npm "10.5.0"
     npm-package-arg "^11.0.2"
     npm-run-path "^5.3.0"
+    object-treeify "^4.0.1"
     semver "^7.6.0"
     validate-npm-package-name "^5.0.0"
     yarn "^1.22.22"
@@ -5583,6 +5584,11 @@ object-treeify@^1.1.33:
   version "1.1.33"
   resolved "https://registry.yarnpkg.com/object-treeify/-/object-treeify-1.1.33.tgz#f06fece986830a3cba78ddd32d4c11d1f76cdf40"
   integrity sha512-EFVjAYfzWqWsBMRHPMAXLCDIJnpMhdWAqR7xG6M6a2cs6PMFpl/+Z20w9zDW4vkxOFfddegBKq9Rehd0bxWE7A==
+
+object-treeify@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/object-treeify/-/object-treeify-4.0.1.tgz#f91a7dec795d8275886e7f1bd78408f6975be825"
+  integrity sha512-Y6tg5rHfsefSkfKujv2SwHulInROy/rCL5F4w0QOWxut8AnxYxf0YmNhTh95Zfyxpsudo66uqkux0ACFnyMSgQ==
 
 object.assign@^4.1.2:
   version "4.1.3"
